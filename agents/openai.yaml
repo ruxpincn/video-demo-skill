@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频演示"
+  short_description: "制作精准热点动画教程并导出1080P音效视频"
+  default_prompt: "Use $视频演示 to turn screenshot hotspots into a polished operation tutorial video with precise highlights and sound effects."
